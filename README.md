@@ -1,5 +1,7 @@
 “# Ruby on Rails Tutorial sample application
 
+[Live Page](https://morning-plateau-81946.herokuapp.com/)
+
 This is the sample application for
 [_Ruby on Rails Tutorial:
 Learn Web Development with Rails_](https://www.railstutorial.org/)
