@@ -1,4 +1,4 @@
-“# Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial sample application
 
 [Live Page](https://morning-plateau-81946.herokuapp.com/)
 
